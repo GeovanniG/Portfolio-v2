@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg cl:c1="13421772" cl:c2="10066329" cl:c3="6710886" cl:c4="3355443" cl:c5="0" cl:clientversion="1.1.2" cl:filetype="pattern" cl:seamlessversion="2.0" cl:target="web" version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:cl="http://www.colourlovers.com/">
+ <defs>
+  <clipPath id="a">
+   <rect width="200" height="200"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#a)">
+  <rect width="200" height="200" fill="#210265"/>
+  <g fill="#210265" stroke="#210265" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSA0KQ==" cl:shapetype="customshape">
+   <g transform="matrix(.2289 -33.96 35.54 -.5605 31.5 128.2)">
+    <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+     <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+    </g>
+   </g>
+  </g>
+  <g cl:groupname="R3JvdXAgMQ==">
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSA0KQ==" cl:shapetype="customshape">
+    <g transform="matrix(32.98 -19.16 19.24 31.48 144.8 114.8)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#210265" stroke="#210265" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSA1KQ==" cl:shapetype="customshape">
+    <g transform="matrix(29.39 -17.01 18.49 30.36 145.8 112.7)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#210265" stroke="#210265" stroke-width="0" cl:layername="U2hhcGUgMw==" cl:shapetype="customshape">
+    <g transform="matrix(9.677 -41.43 41.42 9.678 108.6 107.1)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgNA==" cl:shapetype="customshape">
+    <g transform="matrix(-4.834 -4.471 6.819 -7.383 108.9 127.8)">
+     <g transform="matrix(.006424 0 0 .006424 -.5 -.5)">
+      <rect width="155.33" height="155.33" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgNg==" cl:shapetype="customshape">
+    <g transform="matrix(-5.008 -1.078 15.04 -69.54 114.4 117.8)">
+     <g transform="matrix(.006424 0 0 .006424 -.5 -.5)">
+      <rect width="155.33" height="155.33" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSk=" cl:shapetype="customshape">
+    <g transform="matrix(6.297 -26.96 24.79 5.792 113.6 107.3)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSAyKQ==" cl:shapetype="customshape">
+    <g transform="matrix(6.287 -26.91 24.75 5.783 74 89.75)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgNw==" cl:shapetype="customshape">
+    <g transform="matrix(-.1162 -5.961 7.545 -.1471 124.6 136.2)">
+     <g transform="matrix(.00531 0 0 .00531 -.5 -.45)">
+      <polygon points="35.939 178.97 0 68.36 94.09 0 188.18 68.36 152.24 178.97" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgNyAoY29weSk=" cl:shapetype="customshape">
+    <g transform="matrix(-2.571 5.371 -6.798 -3.254 63 63.85)">
+     <g transform="matrix(.00531 0 0 .00531 -.5 -.45)">
+      <polygon points="35.939 178.97 0 68.36 94.09 0 188.18 68.36 152.24 178.97" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgOQ==" cl:shapetype="customshape">
+    <g transform="matrix(-3.951 -8.228 8.227 -3.952 133.1 85.5)">
+     <g transform="matrix(.002487 0 0 .002487 -.25 -.5)">
+      <path d="m165.18 385.28c-0.397-0.037-56.319-141.83-56.319-141.83l104.42 9.534-213.29-252.98 0.818 331.27 73.624-74.679s51.688 142.96 52.048 143.4c0.359 0.423 38.668-14.324 38.693-14.709z" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMTA=" cl:shapetype="customshape">
+    <g transform="matrix(-3.219 -1.858 1.857 -3.219 53.25 98.2)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkp" cl:shapetype="customshape">
+    <g transform="matrix(-3.215 -1.853 1.853 -3.215 116.5 109.4)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMik=" cl:shapetype="customshape">
+    <g transform="matrix(-3.21 -1.85 1.85 -3.211 100.6 139.3)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#8A07D4" stroke="#8A07D4" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMyk=" cl:shapetype="customshape">
+    <g transform="matrix(-3.206 -1.847 1.847 -3.206 100.2 95.55)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#8A07D4" stroke="#8A07D4" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkp" cl:shapetype="customshape">
+    <g transform="matrix(2.355 1.976 -2.089 2.491 109.4 114.6)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMik=" cl:shapetype="customshape">
+    <g transform="matrix(2.843 2.385 -2.384 2.844 71.75 137.2)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMyk=" cl:shapetype="customshape">
+    <g transform="matrix(2.839 2.381 -2.381 2.84 92.55 110.5)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#8A07D4" stroke="#8A07D4" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNCk=" cl:shapetype="customshape">
+    <g transform="matrix(2.83 2.374 -2.374 2.831 85.3 145.1)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#8A07D4" stroke="#8A07D4" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgOA==" cl:shapetype="customshape">
+    <g transform="matrix(-.06562 -6.114 7.676 -.08191 105.5 76.1)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgOCAoY29weSk=" cl:shapetype="customshape">
+    <g transform="matrix(-2.694 5.48 -6.879 -3.383 65.35 127.5)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" cl:layername="TGluZSAxMQ==" cl:shapetype="line">
+    <g transform="matrix(-.01063 -.7036 .7036 -.01063 56.05 86.4)">
+     <path d="m59.75 99.35v0l0.18-7.002-7.001-0.048-7.001-0.055 0.205-6.995 0.218-6.988-6.988-0.062-6.989-0.068 0.243-6.982 0.255-6.975-6.976-0.075-6.977-0.082 0.281-6.968" fill="none" stroke-linecap="round" stroke-width="2" cl:cpt="39.25 78.2" cl:linestyleid="3" cl:pt0="59.75 99.35" cl:pt1="19.2 57.05"/>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" cl:layername="TGluZSAxMg==" cl:shapetype="line">
+    <g transform="matrix(-.01063 -.7036 .7036 -.01063 55.6 86.95)">
+     <path d="m0.4 1.1q9.85 28.3 19.642 56.617" fill="none" stroke-linecap="round" stroke-width="2" cl:linestyleid="1"/>
+    </g>
+   </g>
+  </g>
+  <g cl:groupname="R3JvdXAgMSAoY29weSk=">
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMSAoY29weSAyKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-75.98 18.26 18.24 75.9 178.7 165.7)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-75.98 18.26 18.24 75.9 -21.3 165.7)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-75.98 18.26 18.24 75.9 178.7 -34.3)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-75.98 18.26 18.24 75.9 -21.3 -34.3)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMSAoY29weSk=" cl:shapetype="customshape">
+    <g transform="matrix(-66.33 15.94 15.94 66.33 179.4 165.1)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-66.33 15.94 15.94 66.33 -20.55 165.1)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-66.33 15.94 15.94 66.33 179.4 -34.9)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-66.33 15.94 15.94 66.33 -20.55 -34.9)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSAyKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-46.29 11.55 10.68 42.77 158.4 156.9)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#210265" stroke="#210265" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSAzKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-41.18 10.28 10.28 41.18 155.6 155.8)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#210265" stroke="#210265" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSk=" cl:shapetype="customshape">
+    <g transform="matrix(-41.27 10.3 10.3 41.27 175.7 193.1)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-41.27 10.3 10.3 41.27 -24.3 193.1)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-41.27 10.3 10.3 41.27 175.7 -6.9)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-41.27 10.3 10.3 41.27 -24.3 -6.9)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgNCAoY29weSk=" cl:shapetype="customshape">
+    <g transform="matrix(-4.544 -4.766 -7.279 6.929 196.4 193)">
+     <g transform="matrix(.006424 0 0 .006424 -.5 -.5)">
+      <rect width="155.33" height="155.33" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-4.544 -4.766 -7.279 6.929 -3.65 193)">
+     <g transform="matrix(.006424 0 0 .006424 -.5 -.5)">
+      <rect width="155.33" height="155.33" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgNiAoY29weSk=" cl:shapetype="customshape">
+    <g transform="matrix(-1.154 -4.991 -69.31 16.09 186.4 198.5)">
+     <g transform="matrix(.006424 0 0 .006424 -.5 -.5)">
+      <rect width="155.33" height="155.33" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-1.154 -4.991 -69.31 16.09 -13.55 198.5)">
+     <g transform="matrix(.006424 0 0 .006424 -.5 -.5)">
+      <rect width="155.33" height="155.33" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-1.154 -4.991 -69.31 16.09 186.4 -1.5)">
+     <g transform="matrix(.006424 0 0 .006424 -.5 -.5)">
+      <rect width="155.33" height="155.33" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-1.154 -4.991 -69.31 16.09 -13.55 -1.5)">
+     <g transform="matrix(.006424 0 0 .006424 -.5 -.5)">
+      <rect width="155.33" height="155.33" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSAyKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-26.86 6.703 6.166 24.7 175.9 197.9)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-26.86 6.703 6.166 24.7 175.9 -2.05)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSAzKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-26.82 6.693 6.157 24.66 157.9 158.7)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgNyAoY29weSk=" cl:shapetype="customshape">
+    <g transform="matrix(-5.962 -.02611 -.03305 7.547 35.6 39.05)">
+     <g transform="matrix(.00531 0 0 .00531 -.5 -.45)">
+      <polygon points="35.939 178.97 0 68.36 94.09 0 188.18 68.36 152.24 178.97" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgNyAoY29weSAyKQ==" cl:shapetype="customshape">
+    <g transform="matrix(5.333 -2.664 -3.373 -6.751 138.9 153.9)">
+     <g transform="matrix(.00531 0 0 .00531 -.5 -.45)">
+      <polygon points="35.939 178.97 0 68.36 94.09 0 188.18 68.36 152.24 178.97" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgOSAoY29weSk=" cl:shapetype="customshape">
+    <g transform="matrix(-8.276 -3.823 -3.822 8.275 160.4 48.25)">
+     <g transform="matrix(.002487 0 0 .002487 -.25 -.5)">
+      <path d="m165.18 385.28c-0.397-0.037-56.319-141.83-56.319-141.83l104.42 9.534-213.29-252.98 0.818 331.27 73.624-74.679s51.688 142.96 52.048 143.4c0.359 0.423 38.668-14.324 38.693-14.709z" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkp" cl:shapetype="customshape">
+    <g transform="matrix(-1.906 -3.19 -3.191 1.906 165.9 137.7)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMik=" cl:shapetype="customshape">
+    <g transform="matrix(-1.902 -3.187 -3.187 1.901 178.2 .75)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-1.902 -3.187 -3.187 1.901 178.2 200.8)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMyk=" cl:shapetype="customshape">
+    <g transform="matrix(-1.898 -3.182 -3.182 1.898 38.3 184.4)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#8A07D4" stroke="#8A07D4" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNCk=" cl:shapetype="customshape">
+    <g transform="matrix(-1.896 -3.178 -3.178 1.895 164.1 184.6)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#8A07D4" stroke="#8A07D4" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMik=" cl:shapetype="customshape">
+    <g transform="matrix(2.011 2.325 2.459 -2.127 183.2 193.7)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMyk=" cl:shapetype="customshape">
+    <g transform="matrix(2.427 2.807 2.807 -2.427 35.8 155.7)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNCk=" cl:shapetype="customshape">
+    <g transform="matrix(2.423 2.803 2.803 -2.423 178.8 176.9)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#8A07D4" stroke="#8A07D4" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNSk=" cl:shapetype="customshape">
+    <g transform="matrix(2.417 2.794 2.794 -2.416 43.9 169.2)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#8A07D4" stroke="#8A07D4" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgOCAoY29weSk=" cl:shapetype="customshape">
+    <g transform="matrix(-6.115 .02678 .03409 7.676 144.7 190.3)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgOCAoY29weSAyKQ==" cl:shapetype="customshape">
+    <g transform="matrix(5.438 -2.777 -3.487 -6.827 195.3 149.4)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" cl:layername="TGluZSAxMSAoY29weSk=" cl:shapetype="line">
+    <g transform="matrix(-.7037 0 0 .7036 154.2 140.7)">
+     <path d="m59.75 99.35v0l0.18-7.002-7.001-0.048-7.001-0.055 0.205-6.995 0.218-6.988-6.988-0.062-6.989-0.068 0.243-6.982 0.255-6.975-6.976-0.075-6.977-0.082 0.281-6.968" fill="none" stroke-linecap="round" stroke-width="2" cl:cpt="39.25 78.2" cl:linestyleid="3" cl:pt0="59.75 99.35" cl:pt1="19.2 57.05"/>
+    </g>
+    <g transform="matrix(-.7037 0 0 .7036 154.2 -59.3)">
+     <path d="m59.75 99.35v0l0.18-7.002-7.001-0.048-7.001-0.055 0.205-6.995 0.218-6.988-6.988-0.062-6.989-0.068 0.243-6.982 0.255-6.975-6.976-0.075-6.977-0.082 0.281-6.968" fill="none" stroke-linecap="round" stroke-width="2" cl:cpt="39.25 78.2" cl:linestyleid="3" cl:pt0="59.75 99.35" cl:pt1="19.2 57.05"/>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" cl:layername="TGluZSAxMiAoY29weSk=" cl:shapetype="line">
+    <g transform="matrix(-.7037 0 0 .7036 154.8 140.2)">
+     <path d="m0.4 1.1q9.85 28.3 19.642 56.617" fill="none" stroke-linecap="round" stroke-width="2" cl:linestyleid="1"/>
+    </g>
+   </g>
+  </g>
+  <g cl:groupname="R3JvdXAgMSAoY29weSAzKQ==">
+   <g cl:groupname="R3JvdXAgMSAoY29weSk=">
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMSAoY29weSAyKQ==" cl:shapetype="customshape">
+     <g transform="matrix(70.66 33.36 -33.33 70.58 185.8 75.2)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+     <g transform="matrix(70.66 33.36 -33.33 70.58 -14.15 75.2)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMSAoY29weSk=" cl:shapetype="customshape">
+     <g transform="matrix(61.69 29.13 -29.13 61.68 185.2 74.5)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+     <g transform="matrix(61.69 29.13 -29.13 61.68 -14.8 74.5)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSAyKQ==" cl:shapetype="customshape">
+     <g transform="matrix(42.96 20.75 -19.17 39.7 7.45 70.75)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+     <g transform="matrix(42.96 20.75 -19.17 39.7 207.5 70.75)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#210265" stroke="#210265" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSAzKQ==" cl:shapetype="customshape">
+     <g transform="matrix(38.22 18.46 -18.46 38.22 10.3 70.25)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+      </g>
+     </g>
+     <g transform="matrix(38.22 18.46 -18.46 38.22 210.3 70.25)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#210265" stroke="#210265" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSk=" cl:shapetype="customshape">
+     <g transform="matrix(38.31 18.5 -18.5 38.3 183.2 102.6)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+      </g>
+     </g>
+     <g transform="matrix(38.31 18.5 -18.5 38.3 -16.8 102.6)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgNCAoY29weSk=" cl:shapetype="customshape">
+     <g transform="matrix(5.42 -3.74 5.714 8.268 162.9 98.3)">
+      <g transform="matrix(.006424 0 0 .006424 -.5 -.5)">
+       <rect width="155.33" height="155.33" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgNiAoY29weSk=" cl:shapetype="customshape">
+     <g transform="matrix(2.147 -4.651 64.57 29.88 171.5 105.8)">
+      <g transform="matrix(.006424 0 0 .006424 -.5 -.5)">
+       <rect width="155.33" height="155.33" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+     <g transform="matrix(2.147 -4.651 64.57 29.88 -28.5 105.8)">
+      <g transform="matrix(.006424 0 0 .006424 -.5 -.5)">
+       <rect width="155.33" height="155.33" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSAyKQ==" cl:shapetype="customshape">
+     <g transform="matrix(24.93 12.04 -11.07 22.93 181.9 107.4)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSAzKQ==" cl:shapetype="customshape">
+     <g transform="matrix(24.89 12.02 -11.05 22.89 7.6 72.55)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+      </g>
+     </g>
+     <g transform="matrix(24.89 12.02 -11.05 22.89 207.6 72.55)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgNyAoY29weSk=" cl:shapetype="customshape">
+     <g transform="matrix(5.842 1.19 -1.506 7.395 151.3 111.8)">
+      <g transform="matrix(.00531 0 0 .00531 -.5 -.45)">
+       <polygon points="35.939 178.97 0 68.36 94.09 0 188.18 68.36 152.24 178.97" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgNyAoY29weSAyKQ==" cl:shapetype="customshape">
+     <g transform="matrix(-4.678 -3.696 4.679 -5.922 27.1 71.8)">
+      <g transform="matrix(.00531 0 0 .00531 -.5 -.45)">
+       <polygon points="35.939 178.97 0 68.36 94.09 0 188.18 68.36 152.24 178.97" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgOSAoY29weSk=" cl:shapetype="customshape">
+     <g transform="matrix(8.886 -2.054 2.054 8.886 188.9 134.2)">
+      <g transform="matrix(.002487 0 0 .002487 -.25 -.5)">
+       <path d="m165.18 385.28c-0.397-0.037-56.319-141.83-56.319-141.83l104.42 9.534-213.29-252.98 0.818 331.27 73.624-74.679s51.688 142.96 52.048 143.4c0.359 0.423 38.668-14.324 38.693-14.709z" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkp" cl:shapetype="customshape">
+     <g transform="matrix(2.516 -2.735 2.735 2.516 3.85 50.45)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMik=" cl:shapetype="customshape">
+     <g transform="matrix(2.511 -2.732 2.732 2.511 179.2 109.7)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMyk=" cl:shapetype="customshape">
+     <g transform="matrix(2.507 -2.728 2.729 2.507 153.5 87.65)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMyk=" cl:shapetype="customshape">
+     <g transform="matrix(2.511 -2.732 2.732 2.511 138 68.4)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNCk=" cl:shapetype="customshape">
+     <g transform="matrix(2.507 -2.728 2.729 2.507 112.2 46.3)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNCk=" cl:shapetype="customshape">
+     <g transform="matrix(-.08063 3.71 -3.71 -.08032 10.35 124.6)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNSk=" cl:shapetype="customshape">
+     <g transform="matrix(-.08006 3.705 -3.705 -.07975 44.25 124.1)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNSk=" cl:shapetype="customshape">
+     <g transform="matrix(-.08063 3.71 -3.71 -.08032 25.75 50.2)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNik=" cl:shapetype="customshape">
+     <g transform="matrix(-.08006 3.705 -3.705 -.07975 59.65 49.7)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNik=" cl:shapetype="customshape">
+     <g transform="matrix(2.845 -2.382 -2.382 -2.845 73.5 166.9)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNyk=" cl:shapetype="customshape">
+     <g transform="matrix(2.841 -2.379 -2.379 -2.841 94.25 193.8)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#8A07D4" stroke="#8A07D4" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNCk=" cl:shapetype="customshape">
+     <g transform="matrix(2.504 -2.724 2.725 2.503 196.3 96.8)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#8A07D4" stroke="#8A07D4" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMik=" cl:shapetype="customshape">
+     <g transform="matrix(-2.443 1.866 -1.974 -2.583 175.7 101.7)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMyk=" cl:shapetype="customshape">
+     <g transform="matrix(-2.945 2.248 -2.248 -2.945 161.9 60)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNCk=" cl:shapetype="customshape">
+     <g transform="matrix(-2.944 2.25 -2.251 -2.944 183.3 86.15)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#8A07D4" stroke="#8A07D4" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNSk=" cl:shapetype="customshape">
+     <g transform="matrix(-2.932 2.238 -2.238 -2.932 151.2 71.5)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#8A07D4" stroke="#8A07D4" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMyk=" cl:shapetype="customshape">
+     <g transform="matrix(-2.443 1.866 -1.974 -2.583 134.4 60.4)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNCk=" cl:shapetype="customshape">
+     <g transform="matrix(-2.945 2.248 -2.248 -2.945 120.6 18.7)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNSk=" cl:shapetype="customshape">
+     <g transform="matrix(-2.944 2.25 -2.251 -2.944 142.1 44.9)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#8A07D4" stroke="#8A07D4" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNik=" cl:shapetype="customshape">
+     <g transform="matrix(-2.932 2.238 -2.238 -2.932 109.9 30.2)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#8A07D4" stroke="#8A07D4" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNCk=" cl:shapetype="customshape">
+     <g transform="matrix(.6014 -3.015 3.188 .6358 18.3 128.2)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNSk=" cl:shapetype="customshape">
+     <g transform="matrix(.7262 -3.633 3.633 .7261 56.2 150.3)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNik=" cl:shapetype="customshape">
+     <g transform="matrix(.7237 -3.634 3.634 .7234 22.7 145)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#8A07D4" stroke="#8A07D4" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNyk=" cl:shapetype="customshape">
+     <g transform="matrix(.723 -3.617 3.617 .7229 56.65 134.6)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#8A07D4" stroke="#8A07D4" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNSk=" cl:shapetype="customshape">
+     <g transform="matrix(.6014 -3.015 3.188 .6358 33.7 53.8)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNik=" cl:shapetype="customshape">
+     <g transform="matrix(.7262 -3.633 3.633 .7261 71.6 75.95)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNyk=" cl:shapetype="customshape">
+     <g transform="matrix(.7237 -3.634 3.634 .7234 38.1 70.55)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#8A07D4" stroke="#8A07D4" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgOCk=" cl:shapetype="customshape">
+     <g transform="matrix(.723 -3.617 3.617 .7229 72.05 60.25)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#8A07D4" stroke="#8A07D4" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNik=" cl:shapetype="customshape">
+     <g transform="matrix(-1.977 2.354 2.49 2.091 81.2 170.9)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNyk=" cl:shapetype="customshape">
+     <g transform="matrix(-2.381 2.838 2.838 2.382 122.2 186.8)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgOCk=" cl:shapetype="customshape">
+     <g transform="matrix(-2.384 2.837 2.837 2.384 97 163.9)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#8A07D4" stroke="#8A07D4" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgOSk=" cl:shapetype="customshape">
+     <g transform="matrix(-2.371 2.826 2.826 2.371 110.2 196.9)">
+      <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+       <circle cx="90.667" cy="90.667" r="90.667" fill="#8A07D4" stroke="#8A07D4" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgOCAoY29weSk=" cl:shapetype="customshape">
+     <g transform="matrix(5.981 1.273 -1.598 7.508 14 106.2)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgOCAoY29weSAyKQ==" cl:shapetype="customshape">
+     <g transform="matrix(-4.758 -3.827 4.805 -5.973 172.7 55.9)">
+      <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+       <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" cl:layername="TGluZSAxMSAoY29weSk=" cl:shapetype="line">
+     <g transform="matrix(.6889 .1434 -.1434 .6889 14.75 55.75)">
+      <path d="m59.75 99.35v0l0.18-7.002-7.001-0.048-7.001-0.055 0.205-6.995 0.218-6.988-6.988-0.062-6.989-0.068 0.243-6.982 0.255-6.975-6.976-0.075-6.977-0.082 0.281-6.968" fill="none" stroke-linecap="round" stroke-width="2" cl:cpt="39.25 78.2" cl:linestyleid="3" cl:pt0="59.75 99.35" cl:pt1="19.2 57.05"/>
+     </g>
+    </g>
+    <g fill="#F1CCFA" stroke="#F1CCFA" cl:layername="TGluZSAxMiAoY29weSk=" cl:shapetype="line">
+     <g transform="matrix(.6889 .1434 -.1434 .6889 14.3 55.2)">
+      <path d="m0.4 1.1q9.85 28.3 19.642 56.617" fill="none" stroke-linecap="round" stroke-width="2" cl:linestyleid="1"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g cl:groupname="R3JvdXAgMSAoY29weSAyKQ==">
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMSAoY29weSAzKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-78.11 2.388 2.389 78.02 65.4 196.2)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-78.11 2.388 2.389 78.02 65.4 -3.8)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMSAoY29weSAyKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-68.19 2.086 2.089 68.18 66.2 195.8)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-68.19 2.086 2.089 68.18 66.2 -4.15)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSAzKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-47.67 1.875 1.735 44.05 47.3 183.5)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-47.67 1.875 1.735 44.05 47.3 -16.55)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#210265" stroke="#210265" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSA0KQ==" cl:shapetype="customshape">
+    <g transform="matrix(-42.41 1.668 1.67 42.41 44.85 181.9)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+     </g>
+    </g>
+    <g transform="matrix(-42.41 1.668 1.67 42.41 44.85 -18.05)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#210265" stroke="#210265" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSAyKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-42.51 1.672 1.674 42.5 56.85 22.3)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#210265" stroke="#210265" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgNCAoY29weSAyKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-3.477 -5.592 -8.539 5.3 77.2 26.55)">
+     <g transform="matrix(.006424 0 0 .006424 -.5 -.5)">
+      <rect width="155.33" height="155.33" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgNiAoY29weSAyKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-.1122 -5.121 -71.13 1.625 66.3 29.9)">
+     <g transform="matrix(.006424 0 0 .006424 -.5 -.5)">
+      <rect width="155.33" height="155.33" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSAzKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-27.66 1.088 1.002 25.44 56.1 27.25)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMyAoY29weSA0KQ==" cl:shapetype="customshape">
+    <g transform="matrix(-27.62 1.086 1 25.4 46.45 185.2)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgNyAoY29weSAyKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-5.832 -1.241 -1.571 7.381 151.2 43.05)">
+     <g transform="matrix(.00531 0 0 .00531 -.5 -.45)">
+      <polygon points="35.939 178.97 0 68.36 94.09 0 188.18 68.36 152.24 178.97" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgNyAoY29weSAzKQ==" cl:shapetype="customshape">
+    <g transform="matrix(5.765 -1.521 -1.926 -7.297 28.85 176.6)">
+     <g transform="matrix(.00531 0 0 .00531 -.5 -.45)">
+      <polygon points="35.939 178.97 0 68.36 94.09 0 188.18 68.36 152.24 178.97" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgOSAoY29weSAyKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-7.318 -5.431 -5.431 7.318 50.6 76.3)">
+     <g transform="matrix(.002487 0 0 .002487 -.25 -.5)">
+      <path d="m165.18 385.28c-0.397-0.037-56.319-141.83-56.319-141.83l104.42 9.534-213.29-252.98 0.818 331.27 73.624-74.679s51.688 142.96 52.048 143.4c0.359 0.423 38.668-14.324 38.693-14.709z" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMik=" cl:shapetype="customshape">
+    <g transform="matrix(-1.216 -3.512 -3.512 1.215 58.65 166.3)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMyk=" cl:shapetype="customshape">
+    <g transform="matrix(-1.212 -3.507 -3.508 1.212 57.75 30.4)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNCk=" cl:shapetype="customshape">
+    <g transform="matrix(-1.21 -3.502 -3.503 1.21 124.2 185.9)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#8A07D4" stroke="#8A07D4" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNSk=" cl:shapetype="customshape">
+    <g transform="matrix(-1.208 -3.497 -3.498 1.208 47.25 11.75)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#8A07D4" stroke="#8A07D4" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#E017EC" stroke="#E017EC" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgMyk=" cl:shapetype="customshape">
+    <g transform="matrix(1.495 2.686 2.841 -1.581 64.15 24.5)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#E017EC" stroke="#E017EC" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#D076FD" stroke="#D076FD" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNCk=" cl:shapetype="customshape">
+    <g transform="matrix(1.804 3.243 3.243 -1.804 127.7 157.3)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#D076FD" stroke="#D076FD" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNSk=" cl:shapetype="customshape">
+    <g transform="matrix(1.801 3.238 3.239 -1.801 63.25 7.15)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#8A07D4" stroke="#8A07D4" stroke-width="0" cl:layername="U2hhcGUgMTAgKGNvcHkgNik=" cl:shapetype="customshape">
+    <g transform="matrix(1.796 3.228 3.228 -1.796 132.9 172.1)">
+     <g transform="matrix(.005508 0 0 .005508 -.5 -.5)">
+      <circle cx="90.667" cy="90.667" r="90.667" fill="#8A07D4" stroke="#8A07D4" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgOCAoY29weSAyKQ==" cl:shapetype="customshape">
+    <g transform="matrix(-5.992 -1.22 -1.531 7.522 27.15 13.3)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0" cl:layername="U2hhcGUgOCAoY29weSAzKQ==" cl:shapetype="customshape">
+    <g transform="matrix(5.89 -1.61 -2.022 -7.395 85.05 183.7)">
+     <g transform="matrix(.00528 0 0 .00528 -.5 -.4)">
+      <polygon points="0 163.74 94.537 0 189.07 163.74" fill="#F1CCFA" stroke="#F1CCFA" stroke-width="0"/>
+     </g>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" cl:layername="TGluZSAxMSAoY29weSAyKQ==" cl:shapetype="line">
+    <g transform="matrix(-.6889 -.1434 -.1434 .6889 46.5 -33.25)">
+     <path d="m59.75 99.35v0l0.18-7.002-7.001-0.048-7.001-0.055 0.205-6.995 0.218-6.988-6.988-0.062-6.989-0.068 0.243-6.982 0.255-6.975-6.976-0.075-6.977-0.082 0.281-6.968" fill="none" stroke-linecap="round" stroke-width="2" cl:cpt="39.25 78.2" cl:linestyleid="3" cl:pt0="59.75 99.35" cl:pt1="19.2 57.05"/>
+    </g>
+    <g transform="matrix(-.6889 -.1434 -.1434 .6889 246.5 -33.25)">
+     <path d="m59.75 99.35v0l0.18-7.002-7.001-0.048-7.001-0.055 0.205-6.995 0.218-6.988-6.988-0.062-6.989-0.068 0.243-6.982 0.255-6.975-6.976-0.075-6.977-0.082 0.281-6.968" fill="none" stroke-linecap="round" stroke-width="2" cl:cpt="39.25 78.2" cl:linestyleid="3" cl:pt0="59.75 99.35" cl:pt1="19.2 57.05"/>
+    </g>
+    <g transform="matrix(-.6889 -.1434 -.1434 .6889 246.5 166.8)">
+     <path d="m59.75 99.35v0l0.18-7.002-7.001-0.048-7.001-0.055 0.205-6.995 0.218-6.988-6.988-0.062-6.989-0.068 0.243-6.982 0.255-6.975-6.976-0.075-6.977-0.082 0.281-6.968" fill="none" stroke-linecap="round" stroke-width="2" cl:cpt="39.25 78.2" cl:linestyleid="3" cl:pt0="59.75 99.35" cl:pt1="19.2 57.05"/>
+    </g>
+    <g transform="matrix(-.6889 -.1434 -.1434 .6889 46.5 166.8)">
+     <path d="m59.75 99.35v0l0.18-7.002-7.001-0.048-7.001-0.055 0.205-6.995 0.218-6.988-6.988-0.062-6.989-0.068 0.243-6.982 0.255-6.975-6.976-0.075-6.977-0.082 0.281-6.968" fill="none" stroke-linecap="round" stroke-width="2" cl:cpt="39.25 78.2" cl:linestyleid="3" cl:pt0="59.75 99.35" cl:pt1="19.2 57.05"/>
+    </g>
+   </g>
+   <g fill="#F1CCFA" stroke="#F1CCFA" cl:layername="TGluZSAxMiAoY29weSAyKQ==" cl:shapetype="line">
+    <g transform="matrix(-.6889 -.1434 -.1434 .6889 47.3 166.4)">
+     <path d="m0.4 1.1q9.85 28.3 19.642 56.617" fill="none" stroke-linecap="round" stroke-width="2" cl:linestyleid="1"/>
+    </g>
+    <g transform="matrix(-.6889 -.1434 -.1434 .6889 47.3 -33.55)">
+     <path d="m0.4 1.1q9.85 28.3 19.642 56.617" fill="none" stroke-linecap="round" stroke-width="2" cl:linestyleid="1"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

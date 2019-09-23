@@ -1,0 +1,100 @@
+.header {
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url('../../images/bg9.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-size: 100%; */
+  /* width: auto; */
+  /* padding: 5rem 0 5rem 0; */
+  padding: 1rem 1rem 5rem 1rem;
+  /* height: 100vh; */
+}
+
+.main {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.introText {
+  font-size: 7rem;
+  font-weight: 600;
+  margin-bottom: 4rem;
+  text-align: center;
+}
+
+.name {
+  position: relative;
+  border-bottom: 1px solid white;
+  font-family: 'Mansalva', cursive;
+  /* font-family: 'Permanent Marker', cursive; */
+}
+
+.name::after {
+  content: 'Insert Name';
+  position: absolute;
+  left: 2rem;
+  bottom: -2.2rem;
+  font-family: 'Josefin Sans', Helvetica, sans-serif;
+  font-size: 1.2rem;
+}
+
+.jobDesc {
+  font-size: 2.2rem;
+}
+
+.role {
+  position: relative;
+  display: inline-block;
+  margin: 2rem .6rem;
+  /* font-family: 'Permanent Marker', cursive; */
+  font-family: 'Mansalva', cursive;
+  border-bottom: 1px solid white;
+}
+
+.role::after {
+  content: 'Role';
+  position: absolute;
+  left: 8rem;
+  bottom: -2.2rem;
+  font-family: 'Josefin Sans', Helvetica, sans-serif;
+  font-size: 1.2rem;
+}
+
+.specialization {
+  position: relative;
+  /* font-family: 'Permanent Marker', cursive; */
+  font-family: 'Mansalva', cursive;
+  text-align: center;
+  border-bottom: 1px solid white;
+  width: 70%;
+  margin: 1rem auto;
+}
+
+.extraSpecText {
+  margin-top: 3rem;
+}
+
+@media (min-width: 340px) {
+  .introText {
+    text-align: left;
+  }
+}
+
+@media (min-width: 700px) {
+  .main {
+    margin: auto;
+    width: 65%;
+  }
+
+  .introText {
+    align-self: flex-start;
+  }
+
+  .jobDesc {
+    align-self: flex-end;
+  }
+}
